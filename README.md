@@ -1,2 +1,2 @@
 # projeto-starbucks
- projeto treino
+ Projeto para treinamento.
